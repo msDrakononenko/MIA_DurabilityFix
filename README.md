@@ -5,9 +5,11 @@
 Pak to increase the strength of all weapons in equivalent
 
 ## Mod info
+[Список зміненої міцності зброї](DurabilityInfo.txt)
  - Діє на ново-створені або куплені предмети, старі залишаться з колишньою міцністю, але можна їх поремонтувати в Орті
  - Мод тільки почне тестуватись, нова міцність була становлена полягаючись на логіку та інтуїцію, в ході тестування може бути виправлена
 
+[List of changed weapon durability](DurabilityInfo.txt)
 - Affects newly created or purchased items. Old ones will retain their original durability, but they can still be repaired in Orth.
 - The mod is just entering testing. The new durability values were set based on logic and intuition, and may be adjusted during testing.
 
@@ -28,7 +30,7 @@ Install zip and unpack .pak file to ...\Steam\steamapps\common\MadeInAbyss-BSFD\
 That's it — enjoy!
 
 ## Contact
-Telegram: https://t.me/Pfudorw
+Telegram: https://t.me/Pfudorw - Best to message me here
 
 Email: msdrakononenko4@gmail.com
 
