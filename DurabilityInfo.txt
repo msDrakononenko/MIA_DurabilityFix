@@ -1,0 +1,41 @@
+Pickaxes (Durability - 20)
+1. 4396 - Pickax -> 120
+2. 4397 - Lt. Pickax -> 120
+3. 4398 - Blue Whistle Pickax -> 250
+4. 4399 - Blue Whistle Lt. Pickax -> 250
+5. 4400 - Moon Whistle Pickax -> 500
+6. 4401 - Black Whistle Pickax -> 900
+7. 4402 - White Whistle Pickax -> 1800
+8. 3032 - Relic Pickax -> 2400
+9. 3028 - Relic Pickax (High) -> 3000
+10. 3027 - Relic Pickax (Special) -> 4000
+11. 3002 - Scaled Umbrella - 100 -> 300 (idk)
+12. 3003 - Blaze Reap -> 999999
+
+Hatchets (Durability - 18)
+1. 4403 - Hatchet -> 100
+2. 4404 - Small Hatchet -> 100
+3. 4405 - Long Hatchet -> 220
+4. 4406 - Long Hatchet EX -> 220
+5. 4407 - Wide Hatchet -> 450
+6. 4408 - Saw Hatchet -> 800
+7. 4409 - XL Hatchet 7 -> 1600
+8. 3029 - Relic Hatchet -> 2400
+9. 3030 - Relic Hatchet (High) -> 3000
+10. 3031 - Relic Hatchet (Special) -> 6000
+
+Guns 
+1. 4382 - Blazing Sun - 9 -> 50
+2. 4383 - Blazing Sun EX - 12 -> 80
+3. 4384 - Raging Heavens - 15 -> 140
+4. 3021 - Relic Gun - 18 -> 300
+5. 3022 - Relic Gun (High) - 21 -> 560
+6. 3023 - Relic Gun (Special) - 24 -> 999
+
+Bows
+1. 4389 - Blue Sky - 9 -> 50
+2. 4390 - Blue Sky EX - 12 -> 80
+3. 4391 - Scream - 15 -> 140
+4. 3024 - Relic Bow - 18 -> 300
+5. 3025 - Relic Bow (High) - 21 -> 560
+6. 3026 - Relic Bow (Special) - 24 -> 999
